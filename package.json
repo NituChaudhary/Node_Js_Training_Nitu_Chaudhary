@@ -1,0 +1,16 @@
+{
+  "name": "Day2",
+  "version": "1.0.0",
+  "description": "Node js Training",
+  "main": "todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Neetu",
+  "license": "ISC",
+  "dependencies": {
+    "node-localstorage": "^2.2.1"
+  },
+  "type": "module"
+}
